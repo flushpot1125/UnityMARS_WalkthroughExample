@@ -5,8 +5,11 @@
 
 
 # 概要
-Unity MARS 1.1.1で提供されているテンプレート「Training Factory」を元にして、視界に常にオブジェクトを表示させる方法、コンテンツをステップ別に実行させる方法をまとめたUnitypackageです。  
-このリポジトリを使った記事は近日公開予定です。  
+Unity MARS 1.1.1で提供されているテンプレート「Training Factory」を元にして、視界に常にオブジェクトを表示させる方法、コンテンツをステップ別に実行させる方法をまとめたUnitypackageです。   
+
+詳細は以下のUnity Pro Tipsをご参照ください。  
+
+[Unity MARSスターターテンプレートの魅力](https://forpro.unity3d.jp/unity_pro_tips/2020/12/04/1434/)  
 
 
 # 動作確認環境  
